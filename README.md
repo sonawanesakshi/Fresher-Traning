@@ -1,1 +1,2 @@
-# Fresher-Traning
+# Fresher-Training
+Day 1 - learn git
