@@ -30,4 +30,4 @@ git push
 git branch -a
 # list of all branches
 git branch [branch name]
-#create a new branch
+# create a new branch
