@@ -17,3 +17,5 @@ git status
 # to check status on our working branch.
 pull request
 # code merge.
+git checkout [branch name]
+# switch to a branch
