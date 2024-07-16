@@ -21,3 +21,5 @@ git checkout [branch name]
 # switch to a branch
 git pull
 # remote changes to pull local system
+git branch
+# to check working on which branch
