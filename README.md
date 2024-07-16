@@ -17,3 +17,24 @@ git status
 # to check status on our working branch.
 pull request
 # code merge.
+git checkout [branch name]
+# switch to a branch
+git pull
+# remote changes to pull local system
+git branch
+# to check working on which branch
+git merge[branch name]
+# merge a branch into active branch
+git push 
+# push changes to remote repo
+git branch -a
+# list of all branches
+git branch [branch name]
+# create a new branch
+git init
+# Initialize a local Git repository
+git branch -d [branch name]
+# delete a branch
+git log
+# veiw changes
+
