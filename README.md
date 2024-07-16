@@ -23,3 +23,5 @@ git pull
 # remote changes to pull local system
 git branch
 # to check working on which branch
+git merge[branch name]
+# merge a branch into active branch
