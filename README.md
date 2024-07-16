@@ -29,3 +29,5 @@ git push
 # push changes to remote repo
 git branch -a
 # list of all branches
+git branch [branch name]
+#create a new branch
