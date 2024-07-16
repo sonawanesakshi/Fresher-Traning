@@ -27,3 +27,5 @@ git merge[branch name]
 # merge a branch into active branch
 git push 
 # push changes to remote repo
+git branch -a
+# list of all branches
