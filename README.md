@@ -33,4 +33,6 @@ git branch [branch name]
 # create a new branch
 git init
 # Initialize a local Git repository
+git branch -d [branch name]
+# delete a branch
 
